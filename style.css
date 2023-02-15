@@ -1,0 +1,17 @@
+#um{
+    margin: 5px 2px 2px 2px;line-height: normal;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: violet;
+}
+body{
+    background-color: lightgreen;
+}
+#texto{
+    color: blueviolet;
+    height: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    height: 70px; text-align: center;text-decoration: 
+    line-through;
+}
